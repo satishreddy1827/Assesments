@@ -1,0 +1,13 @@
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\bin\Debug\netcoreapp3.1\Assesment.SENG8040.exe
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\bin\Debug\netcoreapp3.1\Assesment.SENG8040.deps.json
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\bin\Debug\netcoreapp3.1\Assesment.SENG8040.runtimeconfig.json
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\bin\Debug\netcoreapp3.1\Assesment.SENG8040.runtimeconfig.dev.json
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\bin\Debug\netcoreapp3.1\Assesment.SENG8040.dll
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\bin\Debug\netcoreapp3.1\Assesment.SENG8040.pdb
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\obj\Debug\netcoreapp3.1\Assesment.SENG8040.csproj.AssemblyReference.cache
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\obj\Debug\netcoreapp3.1\Assesment.SENG8040.AssemblyInfoInputs.cache
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\obj\Debug\netcoreapp3.1\Assesment.SENG8040.AssemblyInfo.cs
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\obj\Debug\netcoreapp3.1\Assesment.SENG8040.csproj.CoreCompileInputs.cache
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\obj\Debug\netcoreapp3.1\Assesment.SENG8040.dll
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\obj\Debug\netcoreapp3.1\Assesment.SENG8040.pdb
+C:\Users\hi\source\repos\Assesment.SENG8040\Assesment.SENG8040\obj\Debug\netcoreapp3.1\Assesment.SENG8040.genruntimeconfig.cache
